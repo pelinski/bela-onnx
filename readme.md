@@ -38,7 +38,8 @@ NOTE: If you have a good computer you can try speed up the build modifying the `
 ## Also check
 
 - [pybela-pytorch-xcompilation tutorial](https://github.com/pelinski/pybela-pytorch-xc-tutorial) - Tutorial on how integrate and crosscompile pytorch code for Bela
-- [bela-torch](https://github.com/pelinski/bela-torch) - Build torch for Bela using Docker (+ precompiled binaries)
+- [bela-torch](https://github.com/pelinski/bela-torch) - Build torch for Bela using Docker
+- [bela-tflite](https://github.com/pelinski/bela-tflite) - Build tflite for Bela using Docker
 
 ## Credits
 
